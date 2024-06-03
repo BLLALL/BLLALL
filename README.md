@@ -6,7 +6,7 @@
 
 <p align="center"> 
 	<!-- 	<a href = "https://committers.top/egypt#ORGNAME" target="_blank">
-		<img src="https://img.shields.io/badge/dynamic/json?label=Most%20Active%20GitHub%20User%20in%20Egypt&query=%24.rank&prefix=Rank%20&logo=github&style=for-the-badge&color=grey&labelColor=333&url=https://aktive.tk/rank/egypt/ahmedhany14" alt="Most Active Users" target="_blank" width=40%/> 
+		<img src="https://img.shields.io/badge/dynamic/json?label=Most%20Active%20GitHub%20User%20in%20Egypt&query=%24.rank&prefix=Rank%20&logo=github&style=for-the-badge&color=grey&labelColor=333&url=https://aktive.tk/rank/egypt/" alt="Most Active Users" target="_blank" width=40%/> 
 	</a> -->
 	<img src="https://komarev.com/ghpvc/?username=BLLALL&label=Profile%20views&color=555555&labelColor=000000&style=for-the-badge" alt="BLLALL" width=19.40%/>
 </p>
@@ -36,7 +36,7 @@
 
 </div>
 
-## <img src="https://github.com/ahmedhany14/ahmedhany14/blob/main/Images/Connect-with-me.gif?raw=true" width="10%"> Connect with me
+## <img src="https://github.com///blob/main/Images/Connect-with-me.gif?raw=true" width="10%"> Connect with me
 <p align="center">
 	<a href="mailto:bamer8353@gmail.com@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white"     alt="Gmail"/></a>
 	<a href="https://github.com/BLLALL"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -47,7 +47,7 @@
 
 
 
-### <img src = "https://github.com/ahmedhany14/ahmedhany14/blob/main/Images/Programming_Languages.gif?raw=true" width=5%> Technologies
+### <img src = "https://github.com///blob/main/Images/Programming_Languages.gif?raw=true" width=5%> Technologies
 
 <p align="center"> 
 
@@ -74,7 +74,7 @@
 </p>
 
 
- ### <img src = "https://github.com/ahmedhany14/ahmedhany14/blob/main/Images/Software_Tools.gif?raw=true" width=5%>  Software & Tools
+ ### <img src = "https://github.com///blob/main/Images/Software_Tools.gif?raw=true" width=5%>  Software & Tools
  
 <p align="center">
   &emsp;
@@ -87,7 +87,7 @@
     <a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a>
 </p>
 
- ### <img src = "https://github.com/ahmedhany14/ahmedhany14/blob/main/Images/IDEs.gif?raw=true" width=5%> IDEs
+ ### <img src = "https://github.com///blob/main/Images/IDEs.gif?raw=true" width=5%> IDEs
  
 <p align="center">
   &emsp;
@@ -96,7 +96,7 @@
     <a href="#"><img alt="JetBrain" src="https://img.shields.io/badge/jetbrains-%23000000.svg?style=plastic&logo=jetbrains&logoColor=white" /></a>
 </p>
 
- ### <img src = "https://github.com/ahmedhany14/ahmedhany14/blob/main/Images/CP_PS.gif?raw=true" width=5%> Competitive Programming & Problem Solving
+ ### <img src = "https://github.com///blob/main/Images/CP_PS.gif?raw=true" width=5%> Competitive Programming & Problem Solving
  
 <p align="center">
   &emsp;
