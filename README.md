@@ -17,9 +17,8 @@
 <img align="right" src="https://github.com/BLLALL/BLLALL/blob/main/Images/Right_Side.gif?raw=true" width=30%>
 
 <br><br>
-- :I’m currently Laravel, db internals and design patterns.
-- :school: I am an `UnderGraduate` Student at [Faculty of Computers & Informatics](https://fci.bu.edu.eg/) at [Benha University](https://bu.edu.eg/).
-# :trophy: 1x `ECPC` Finalist.
+- :I’m currently learning Laravel, db internals and design patterns.
+- :school: I am `UnderGraduate` Student at [Faculty of Computers & Informatics](https://fci.bu.edu.eg/) at [Benha University](https://bu.edu.eg/).
 - :computer: I am a competitive programmer at `Codeforces`, `Leetcode`.
 - 💬 Ask me about Laravel - Mysql - design patterns.
 - 🤝 I’m looking for an Internship or Part-Time Job.
@@ -79,7 +78,6 @@
   &emsp;
     <a href="#"><img alt="laragon" img src="https://img.shields.io/badge/laragon-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
   &emsp;
-    &emsp;
     <a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a>
 </p>
 
@@ -101,14 +99,7 @@
     <a href="#"><img alt = "Leetcode" src="https://img.shields.io/badge/leetcode%20-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=black" /></a>
   &emsp;
     <a href="#"><img alt = "Hackerrank" src="https://img.shields.io/badge/hackerrank-%232EC866.svg?style=plastic&logo=hackerrank&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt = "CodeChef" src="https://img.shields.io/badge/codechef-%235B4638.svg?style=plastic&logo=codechef&logoColor=white" /></a>
- 
 </p>
-
- ### <img src = "https://github.com/ahmedhany14/ahmedhany14/blob/main/Images/OS.gif?raw=true" width=5%>  Operating Systems
- 
-
 
 <br> 
 
