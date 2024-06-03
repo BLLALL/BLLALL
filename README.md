@@ -44,18 +44,9 @@
 	<a href="https://www.linkedin.com/in/belall-amer/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
-
-
-
-### <img src = "https://github.com///blob/main/Images/Programming_Languages.gif?raw=true" width=5%> Technologies
+## <img src = "https://github.com///blob/main/Images/Programming_Languages.gif?raw=true" width=5%> Technologies
 
 <p align="center"> 
-
-
-  &emsp;
-  <a href="https://www.php.net" target="_blank"> 
-    <img alt="php" src="https://img.shields.io/badge/PHP-%23007396.svg?style=plastic&logo=php&logoColor=white">
-  </a>
 
 &emsp;
   <a href="https://laravel.com/docs/11.x" target="_blank"> 
