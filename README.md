@@ -17,7 +17,7 @@
 <img align="right" src="https://github.com/BLLALL/BLLALL/blob/main/Images/Right_Side.gif?raw=true" width=30%>
 
 <br><br>
-- :I’m currently learning Laravel, db internals and design patterns.
+- :I’m currently learning Laravel, db  and design patterns.
 - :school: I am `UnderGraduate` Student at [Faculty of Computers & Informatics](https://fci.bu.edu.eg/) at [Benha University](https://bu.edu.eg/).
 - :computer: I am a competitive programmer at `Codeforces`, `Leetcode`.
 - 💬 Ask me about Laravel - Mysql - design patterns.
