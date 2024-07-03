@@ -101,16 +101,16 @@
 
 # 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BLLALL&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=BLLALL&locale=en&mode=daily&theme=carbon&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BLLALL&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="140" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=BLLALL&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github-compact&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=BLLALL&locale=en&mode=daily&theme=github-compact&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BLLALL&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github-compact&hide_border=false&order=2" height="140" alt="languages graph"  />
 </div>
 
 <details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
 
 ----
 	
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BLLALL&theme=vue&hide_border=true)(https://github.com/ashutosh00710/github-readme-activity-graph)">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BLLALL&theme=github-compact&hide_border=true)(https://github.com/ashutosh00710/github-readme-activity-graph)">
  
 </details>
 
