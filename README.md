@@ -20,7 +20,7 @@
 - :I’m currently learning Laravel, apis, and db design.
 - :school: I am `UnderGraduate` Student at [Faculty of Computers & Informatics](https://fci.bu.edu.eg/) at [Benha University](https://bu.edu.eg/).
 - :computer: I am a competitive programmer at `Codeforces`, `Leetcode`.
-- 💬 Ask me about Laravel - Mysql - design patterns.
+- 💬 Ask me about Laravel - Mysql.
 - 🤝 I’m looking for an Internship or Part-Time Job.
 
 <br>
