@@ -73,7 +73,7 @@
   &emsp;
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="laragon" img src="https://img.shields.io/badge/laragon-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
+    <a href="#"><img alt="postman" img src="https://img.shields.io/badge/postman-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
 </p>
 
  ### <img src = "https://github.com///blob/main/Images/IDEs.gif?raw=true" width=5%> IDEs
